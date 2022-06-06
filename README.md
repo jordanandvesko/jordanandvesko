@@ -1,6 +1,6 @@
 ### Jordan and Vesko 👋
 Hey guys! We are Jordan and Vesko. We create stuff to help y'all in some way:)
-()[https://komarev.com/ghpvc/?username=jordanandvesko&style=for-the-badge]
+[](https://komarev.com/ghpvc/?username=jordanandvesko&style=for-the-badge)
 
 <!--
 **jordanandvesko/jordanandvesko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
